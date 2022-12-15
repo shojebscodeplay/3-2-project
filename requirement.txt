@@ -1,0 +1,8 @@
+flask
+cv2
+face_recognition
+numpy
+pygame
+os
+keras.models
+load_model
