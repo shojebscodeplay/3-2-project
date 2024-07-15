@@ -1,7 +1,7 @@
 # Real-Time Border Safety Monitoring System
 # Overview
 This project is a comprehensive computer vision system designed for real-time monitoring of border areas. It leverages deep learning techniques for image classification and face recognition, utilizing TensorFlow and Keras for model development and OpenCV for real-time video processing. Additionally, a local host website was created to manage and display the project's results.
-![Screenshot (8)](https://github.com/shojebscodeplay/Border-area-monitoring-System-using-cnn-3-2-project-/assets/70110235/145da6f9-4efb-46e4-b384-2dec47b215d6)
+![Screenshot (8)](https://github.com/user-attachments/assets/34441759-24b5-4b04-9c13-eea98bfd9b77)
 
 # Key Features
 Image Classification: Utilizes a Convolutional Neural Network (CNN) model to classify images into two categories: BorderGuard and Local.
