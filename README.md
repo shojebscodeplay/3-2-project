@@ -22,4 +22,4 @@ Real-Time System Implementation:
 Implemented a real-time video feed using OpenCV to capture frames from the webcam.
 Integrated the CNN model for image classification and face recognition for identifying known individuals.
 # Outputs
-![Screenshot (52)](https://github.com/shojebscodeplay/Border-area-monitoring-System-using-cnn-3-2-project-/assets/70110235/7d3db3c9-1ae0-4190-bb26-ffa589513625)
+![Screenshot (52)](https://github.com/user-attachments/assets/5730bf72-2034-45d4-accb-062a7381fd22)
